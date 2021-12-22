@@ -3,13 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Borisov_AB/IdeaProjects/ShoeStore/app/src/main/res/layout/activity_main.xml" value="0.22" />
-        <entry key="..\:/Users/Borisov_AB/IdeaProjects/ShoeStore/app/src/main/res/layout/fragment_add_shoe.xml" value="0.33" />
+        <entry key="..\:/Users/Borisov_AB/IdeaProjects/ShoeStore/app/src/main/res/layout/activity_main.xml" value="0.28854166666666664" />
+        <entry key="..\:/Users/Borisov_AB/IdeaProjects/ShoeStore/app/src/main/res/layout/item_shoe.xml" value="0.19166666666666668" />
       </map>
     </option>
-  </component>
-  <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
